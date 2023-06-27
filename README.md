@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wakugumi
-- 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Full Stack Web Developnment and Machine Learning Research
+- 📕 I’m currently a first-year double-major student in Computer Science and Mathematics, B26
+- 💞️ I’m looking to collaborate on open-source project
 - 📫 How to reach me ...
 
 <!---
